@@ -249,10 +249,8 @@ Function That Returns The Amount Of Indetifiers.
 ------------
 
 ### Authors
-- Owoyemi Idris Olamilekan - Halfboyfriend
-- Olayeye Olamide - Muideen7
+- Jemtai Stacy - MissBiwott
+- Olayeye Ayomide - Yungmaniie
 ------------
 
 ### End
-collaborators
-
